@@ -1,8 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhankar-24" alt="Subhankar-24" /> </p>
 
-# Hey there! I'm Subhankar Ghosh 👋
-
 > *"Every week I try new ideas on Building in Public."*
 
 ## About Me

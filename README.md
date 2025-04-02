@@ -1,4 +1,3 @@
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhankar-24" alt="Subhankar-24" /> </p>
 
 > *"Every week I try new ideas on Building in Public."*

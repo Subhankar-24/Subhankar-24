@@ -1,4 +1,3 @@
-# build-with-sg
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhankar-24" alt="Subhankar-24" /> </p>
 
